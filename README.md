@@ -1,0 +1,1 @@
+# germinate-i18n
