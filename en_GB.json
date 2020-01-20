@@ -663,7 +663,7 @@
   "tableColumnUserEmail": "Email",
   "tableColumnUserInstitution": "Institution",
   "tableItemMarkingMarkAll": "Mark all",
-  "tableItemMarkingUnmarkAll": "Unark all",
+  "tableItemMarkingUnmarkAll": "Unmark all",
   "tableItemMarkingCreateGroup": "Create group",
   "toastGroupCreateWithMembers": "Group created. Number of items added: {count}.",
   "toastTitleAcceptLicense": "Accept license",
