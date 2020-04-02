@@ -385,6 +385,7 @@
   "pageExportSelectGroupTooltip": "Gruppenauswahlmodus unterhalb aktivieren um Auswahl zu treffen",
   "pageExportSelectItemMaximum": "Bitte höchstens ein Element auswählen. | Bitte höchstens {count} Elemente auswählen.",
   "pageExportSelectItemMinimum": "Bitte mindestens ein Element auswählen. | Bitte mindestens {count} Elemente auswählen.",
+  "pageExportSelectMarkedItems": "Markierte Elemente",
   "pageGenotypesExportEnableFlapjackText": "Durch diese auswahl generiert Germinate eine <a href='https://ics.hutton.ac.uk/flapjack'>Flapjack</a> Projektdatei zusätzlich zu den einfachen Textdateien.",
   "pageGenotypesExportEnableFlapjackTitle": "Flapjack Projekt erstellen?",
   "pageGenotypesExportMultipleSubselectText": "Diese Tabelle zeigt an wie viele der ausgewählten Keimplasma und Marker sich in jedem Datensatz befinden. Falls basierend auf dieser Information bestimmte Datensätze nicht mehr exportiert werden sollen, können diese per Checkbox abgewählt werden.",
@@ -876,6 +877,7 @@
   "widgetDropFileGroupUploadPlaceholder": "Elementnamen hier eintippen oder .txt Datei mit Elementnamen hier hin ziehen. Nur ein Elementname pro Zeile.",
   "widgetDropFileErrorFileTooLarge": "Die ausgewählte datei ist zu groß. Bitte Größe reduzieren oder Datei unterteilen und Prozess wiederholen.",
   "widgetDropFileErrorWrongFileType": "Falscher Dateityp ausgewählt. Nur .txt Dateien werden unterstützt.",
+  "widgetGenotypeDatasetSelectionSelect": "Bitte mindestens einen Datensatz aus der obenstehenden Tabelle auswählen.",
   "widgetGermplasmInstitutionViewButton": "Keimplasma dieses Institutes anzeigen",
   "widgetGdprNotificationButtonAccept": "Cookies erlauben",
   "widgetGdprNotificationButtonDecline": "Ablehnen",
@@ -921,6 +923,7 @@
   "widgetSelectedDatasetsTitle": "Ausgewählte Datensätze",
   "widgetSignInText": "In Benutzerkonto anmelden",
   "widgetSignInTitle": "Anmelden",
+  "widgetSignInForgotPassword": "Passwort vergessen?",
   "widgetTableFilterInfo": "Nutze das Tabellen-Filtersystem um nach spezifischen Elementen zu suchen.",
   "widgetTableMultiSelectInfo": "Nutze die Checkboxes um eine oder mehrere Reihen auszuwählen."
 }
