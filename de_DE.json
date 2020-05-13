@@ -183,7 +183,7 @@
   "helpPassport": "Diese Seite zeit alle Informationen verbunden mit einem spezifischen Keimplasma. Dies beinhaltet MCPD Informationen, innehabendes Institut, Synonyme, Stammbaumdaten, Sammelstandort, Bilder, Gruppen, Datensätze, zusätzliche Attribute und schließlich einem Abschnitt in dem Nutzer Anmerkungen zum Keimplasma hinzufügen können (falls diese Funktion aktiviert ist).",
   "httpErrorFiveOO": "Interner Server-Fehler. Irgendwas ist schief gegangen...",
   "httpErrorFiveOOne": "Nicht implementiert. Die Ressource ist noch nicht implementiert.",
-  "httpErrorFiveOThree": "Dienst nicht verfügbar. Fehler beim sender der Email.",
+  "httpErrorFiveOThree": "Dienst nicht verfügbar. Fehler beim Kontaktieren von Gatekeeper oder beim Senden der Email.",
   "httpErrorFourOEight": "Anfrage-Zeitüberschreitung.",
   "httpErrorFourOFive": "Methode nicht erlaubt.",
   "httpErrorFourOFour": "Nicht gefunden. Anfrage hat keine Daten zurückgeliefert.",
