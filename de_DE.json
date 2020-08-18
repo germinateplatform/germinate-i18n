@@ -891,6 +891,8 @@
   "tableTooltipDatasetLocations": "Zeige Standorte",
   "tableTooltipExperimentDetailsLink": "Zeige alle Datensätze für dieses Experiment",
   "tableTooltipGermplasmImage": "Bilder dieses Keimplasmas verfügbar. Klicken um ein Beispiel zu sehen.",
+  "tableTooltipGermplasmLocation": "Zeige Standort",
+  "tableTooltipGermplasmPreviewPassport": "Vorschau vom Ausweis anzeigen",
   "templateImportTypeMcpd": "MCPD",
   "templateImportTypeGenotype": "Genotyp",
   "templateImportTypeGroups": "Gruppen",
