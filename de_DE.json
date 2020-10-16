@@ -320,6 +320,8 @@
   "modalTitleFileResource": "Datei-Ressource hochladen",
   "modalTitleFileResourceType": "Datei-Ressourcen-Typ hinzufügen",
   "modalTitleImageUpload": "Bild hochladen",
+  "modalTitleGenotypeExport": "Zusätzliche Exportformate",
+  "modalTextGenotypeExport": "Bitte alle zusätzlichen Exportformate auswählen in denen die Daten exportiert werden sollen.",
   "modalTextImageUpload": "Bilder zum Hochladen auswählen. Die Bilder werden dann mit dem aktuellen Datenbankobjekt assoziiert.",
   "modalTextEditTags": "Tags eintippen und von bereits vorhandenen Tags auswählen oder neue erstellen. Tags können auch entfernt werden.",
   "operatorsAnd": "Und",
