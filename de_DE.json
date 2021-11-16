@@ -986,6 +986,7 @@
   "tableColumnTraitId": "Merkmals-Id",
   "tableColumnTraitName": "Merkmalsname",
   "tableColumnTraitNameShort": "Kurzer Merkmalsname",
+  "tableColumnTraitNrDataset": "# Datensätze",
   "tableColumnTraitRep": "Rep",
   "tableColumnTraitSynonyms": "Merkmalssynonyme",
   "tableColumnTraitTreatment": "Behandlung",
